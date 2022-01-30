@@ -1,4 +1,4 @@
-# Web Technology Project (E-COMMERCE WEBSITE FOR HOME APPLIANCE)
+# **Web Technology Project (E-COMMERCE WEBSITE FOR HOME APPLIANCE)**
 # Project Description
 In this project we developed a E-commerce website for home appliance. In our project we have four types of users and different types of features are included for the users. For this project we get the functionality ideas from AMAZON.COM as reference and we implement those in our project.  The users of this project are: Admin, Buyer, and Seller and delivery man. All users have some common functionality like, every user can register and login the system and they also can Edit, delete or view their profile by their selves.
 ## Functionalities of Admin:  
